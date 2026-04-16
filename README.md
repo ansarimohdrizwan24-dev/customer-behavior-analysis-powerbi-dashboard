@@ -42,6 +42,7 @@ This project presents an interactive Power BI dashboard to analyze customer beha
 
 <img width="1308" height="791" alt="image" src="https://github.com/user-attachments/assets/4529417d-169c-42a3-a875-7b1ff4efa6b2" />
 
+<img width="1306" height="796" alt="image" src="https://github.com/user-attachments/assets/e3ec05b0-b9c2-4add-a97b-c021c5f99b9c" />
 
 
 ## 📌 Conclusion

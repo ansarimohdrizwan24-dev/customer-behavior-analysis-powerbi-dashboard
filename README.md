@@ -38,7 +38,8 @@ This project presents an interactive Power BI dashboard to analyze customer beha
 
 ## 📷 Dashboard Preview
 
-(Add screenshots here)
+![Uploading image.png…]()
+
 
 
 ## 📌 Conclusion

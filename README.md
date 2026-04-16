@@ -1,2 +1,46 @@
-# customer-behavior-analysis-powerbi-dashboard
-Interactive Power BI dashboard analyzing customer behavior, purchasing patterns, and sales trends to generate actionable business insights.
+# 🛍 Customer Behavior Analysis (Power BI Dashboard)
+
+##📊 Project Overview
+
+This project presents an interactive Power BI dashboard to analyze customer behavior and purchasing patterns. It helps in understanding customer preferences, sales trends, and product performance.
+
+##🚀 Key Insights
+- Total Transactions: 3900+
+- Total Revenue: 21M+
+- Customer purchase trends by category and season
+- Gender-based purchasing behavior
+
+
+##📈 Dashboard Features
+
+🔹 Executive Summary
+- Revenue by Category and Item
+- Purchase Frequency Analysis
+- Revenue by Gender
+- Seasonal Trends
+
+🔹 Product Performance
+- Total Sales by Item and Category
+- Category-wise Revenue Distribution
+- Detailed Product Analysis Table
+
+🔹 Time & Customer Insights
+- Sales by Season and Category
+- Customer Location Analysis (Map)
+- Purchase Trends Over Time
+
+
+##🛠 Tools Used
+- Power BI
+- Data Analysis
+- Data Visualization
+
+
+##📷 Dashboard Preview
+
+(Add screenshots here)
+
+
+##📌 Conclusion
+
+This dashboard provides insights into customer behavior, helping businesses optimize product offerings, target customers effectively, and improve overall sales strategy.

@@ -48,3 +48,7 @@ This project presents an interactive Power BI dashboard to analyze customer beha
 ## 📌 Conclusion
 
 This dashboard provides insights into customer behavior, helping businesses optimize product offerings, target customers effectively, and improve overall sales strategy.
+
+## ⭐ Support
+
+If you like this project, don't forget to ⭐ the repository and share it!
